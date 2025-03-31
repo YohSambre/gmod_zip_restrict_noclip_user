@@ -1,0 +1,1 @@
+# gmod_zip_restrict_noclip_user
